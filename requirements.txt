@@ -1,0 +1,8 @@
+#The Pakage need to be installed for usage 
+# To install use command pip install -r requirement.txt
+google-api-python-client
+pandas
+pymongo
+psycopg2
+streamlit
+plotly
